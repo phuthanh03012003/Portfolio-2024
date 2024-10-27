@@ -172,27 +172,27 @@ import {
   const testimonials = [
     {
       testimonial:
-        "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-      name: "Sara Lee",
-      designation: "CFO",
-      company: "Acme Co",
-      image: "https://randomuser.me/api/portraits/women/4.jpg",
-    },
-    {
-      testimonial:
-        "I've never met a web developer who truly cares about their clients' success like Rick does.",
-      name: "Chris Brown",
-      designation: "COO",
-      company: "DEF Corp",
-      image: "https://randomuser.me/api/portraits/men/5.jpg",
-    },
-    {
-      testimonial:
-        "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-      name: "Lisa Wang",
+        "I thought it was impossible to make a website as beautiful as our product, but Ethan proved me wrong.",
+      name: "Vince Pham",
       designation: "CTO",
-      company: "456 Enterprises",
-      image: "https://randomuser.me/api/portraits/women/6.jpg",
+      company: "Millennia Software",
+      image: "https://media.licdn.com/dms/image/v2/D5603AQEw2SeRsQu6lg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1729969946067?e=1735776000&v=beta&t=N9c0Fhhe9dPri2hDfGlLBt-PSLZ1yB4NtFr25LZJ6Pc",
+    },
+    {
+      testimonial:
+        "I've never met a developer who truly cares about their team's success like Ethan does.",
+      name: "Kevin Doan",
+      designation: "Sophomore in Computer Science",
+      company: "Texas Christian University",
+      image: "https://media.licdn.com/dms/image/v2/D5603AQGmId5A-z9pQQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1711215620564?e=1735776000&v=beta&t=jDlmqiJ6difPthddgA1MwLSF-zKyf8GL2KM3r822y54",
+    },
+    {
+      testimonial:
+        "Ethan's dedication and grasp of complex concepts in computer science are truly impressive, and I have no doubt he will achieve great things in the field.",
+      name: "Bingyang Wei",
+      designation: "Associate Professor",
+      company: "Computer Science at Texas Christian University",
+      image: "https://media.licdn.com/dms/image/v2/C4D03AQEZ5ahrPqK9xw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1517581282152?e=1735776000&v=beta&t=ahVkhal3CtZCo9nZog_tn04w4kKNSUTqISKCqQVdkto",
     },
   ];
   
