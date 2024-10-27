@@ -15,7 +15,9 @@ import {
     git,
     figma,
     docker,
-    meta,
+    tcu,
+    cp,
+    millennia,
     starbucks,
     tesla,
     shopify,
@@ -118,8 +120,8 @@ import {
     {
       title: "Software Engineer Intern",
       company_name: "Millennia Software",
-      icon: starbucks,
-      iconBg: "#383E56",
+      icon: millennia,
+      iconBg: "#E6DEDD",
       date: "April 2024 - June 2024",
       points: [
         "Developed a web-based Credit Qualification Application for the Home Loan Department allowing customers to receive loan approvals online, eliminated over 100 in-person visits daily.",
@@ -131,7 +133,7 @@ import {
     {
       title: "IT Intern",
       company_name: "C.P Vietnam Corporation",
-      icon: tesla,
+      icon: cp,
       iconBg: "#E6DEDD",
       date: "June 2024 - August 2024",
       points: [
@@ -141,30 +143,30 @@ import {
       ],
     },
     {
-      title: "Web Developer",
-      company_name: "Southern Glazers Brand Explorer",
-      icon: shopify,
-      iconBg: "#383E56",
-      date: "August 2024 - October 2024",
-      points: [
-        "Collaborated with a team of 5 full-stack developers to create an interactive web application for 1,000 customers to explore wine brands, leveraging Python and Next.js.",
-        "Implemented a TypeScript-based interactive game using RESTful APIs and clustering algorithms to personalize wine recommendations, improving filtering efficiency by 50%.",
-        "Integrated PostgreSQL through SupaBase for efficient database management and used Pandas for analytics, providing data-driven wine suggestions and insights that boosted product engagement by 20%.",
-      ],
-    },
-    {
-      title: "Full stack Developer",
-      company_name: "Fanta Movie Website",
-      icon: meta,
+      title: "Computer Lab Assistant",
+      company_name: "Texas Christian University",
+      icon: tcu,
       iconBg: "#E6DEDD",
-      date: "June 2024 - October 2024",
+      date: "September 2023 - Present",
       points: [
-        "Constructed a movie website for 500 students to learn about documentary film, using React.js and Express.js.",
-        "Implemented secure user account creation and login functionality with Bcrypt for password encryption, JWT for authentication, and Nodemailer for email verification.",
-        "Utilized MongoDB for efficient storage and retrieval of user accounts and movie information.",
-        "Integrated JavaScript to create five features, including film listing, search, rating, comments, and streaming.",
+        "Provide assistance to an average of 30+ students daily on Windows OS, Microsoft Office.",
+        "Engaged in evaluating Google Workspace and emerging software, contributing to technology improvement.",
+        "Resolved 95% of user-reported issues using Jira, enhancing system uptime and user satisfaction.",
       ],
     },
+    // {
+    //   title: "Full stack Developer",
+    //   company_name: "Fanta Movie Website",
+    //   icon: meta,
+    //   iconBg: "#E6DEDD",
+    //   date: "June 2024 - October 2024",
+    //   points: [
+    //     "Constructed a movie website for 500 students to learn about documentary film, using React.js and Express.js.",
+    //     "Implemented secure user account creation and login functionality with Bcrypt for password encryption, JWT for authentication, and Nodemailer for email verification.",
+    //     "Utilized MongoDB for efficient storage and retrieval of user accounts and movie information.",
+    //     "Integrated JavaScript to create five features, including film listing, search, rating, comments, and streaming.",
+    //   ],
+    // },
   ];
   
   const testimonials = [
@@ -196,7 +198,7 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Southern Glazers Brand Explorer",
       description:
         "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
       tags: [
@@ -217,7 +219,7 @@ import {
       source_code_link: "https://github.com/",
     },
     {
-      name: "Job IT",
+      name: "Fanta Movie Website",
       description:
         "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
       tags: [

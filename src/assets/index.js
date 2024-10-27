@@ -25,12 +25,18 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import tcu from "./company/tcu.png"
+import cp from "./company/cp.png"
+import millennia from "./company/millennia.jpg"
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
 export {
+  tcu,
+  cp,
+  millennia,
   logo,
   backend,
   creator,
