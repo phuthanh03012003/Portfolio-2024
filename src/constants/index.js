@@ -1,4 +1,6 @@
 import {
+    dictionary,
+    wine,
     mobile,
     backend,
     creator,
@@ -25,6 +27,7 @@ import {
     jobit,
     tripguide,
     threejs,
+    fanta,
   } from "../assets";
   
   export const navLinks = [
@@ -215,7 +218,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: carrent,
+      image: wine,
       source_code_link: "https://github.com/",
     },
     {
@@ -236,7 +239,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
+      image: fanta,
       source_code_link: "https://github.com/",
     },
     {
@@ -257,7 +260,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
+      image: dictionary,
       source_code_link: "https://github.com/",
     },
   ];

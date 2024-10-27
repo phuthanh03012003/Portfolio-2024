@@ -32,8 +32,14 @@ import millennia from "./company/millennia.jpg"
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import fanta from "./fanta.png"
+import wine from "./wine.jpg"
+import dictionary from "./dictionary.png"
 
 export {
+  dictionary,
+  wine,
+  fanta,
   tcu,
   cp,
   millennia,
