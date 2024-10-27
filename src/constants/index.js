@@ -200,14 +200,14 @@ import {
     {
       name: "Southern Glazers Brand Explorer",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "The SGWS Brand Explorer is an interactive web app that lets users explore and create brand-specific cocktails by selecting flavors and themes. It provides tailored recipes for users to rate, share, and save, enhancing brand engagement through a fun, game-like experience.",
       tags: [
         {
-          name: "react",
+          name: "Next.js",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "Python",
           color: "green-text-gradient",
         },
         {
@@ -221,14 +221,14 @@ import {
     {
       name: "Fanta Movie Website",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Fanta is a React.js and Express.js movie platform designed for students to explore documentary films. It features secure login, film listings, search, ratings, comments, and streaming, with MongoDB handling data storage and management.",
       tags: [
         {
-          name: "react",
+          name: "Reacy.js",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "Express.js",
           color: "green-text-gradient",
         },
         {
@@ -240,16 +240,16 @@ import {
       source_code_link: "https://github.com/",
     },
     {
-      name: "Trip Guide",
+      name: "Quick dictionary",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "The Quick Dictionary App offers quick access to definitions, synonyms, and pronunciation, with features like example sentences, favorite words, and daily word suggestions for easy language learning and reference.",
       tags: [
         {
-          name: "nextjs",
+          name: "JavaScript",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "REST API",
           color: "green-text-gradient",
         },
         {
