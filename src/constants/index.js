@@ -219,7 +219,7 @@ import {
         },
       ],
       image: wine,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/MarkPhamm/Southern-Glazers-Brand-Explorer",
     },
     {
       name: "Fanta Movie Website",
@@ -240,7 +240,7 @@ import {
         },
       ],
       image: fanta,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/HuyLemm/Fanta",
     },
     {
       name: "Quick dictionary",
@@ -261,7 +261,7 @@ import {
         },
       ],
       image: dictionary,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/phuthanh03012003/Quick-dictionary",
     },
   ];
   
