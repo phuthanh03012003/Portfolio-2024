@@ -204,9 +204,9 @@ import {
   
   const projects = [
     {
-      name: "Southern Glazers Brand Explorer",
+      name: "Southern Glazers' Analyst",
       description:
-        "The SGWS Brand Explorer is an interactive web app that lets users explore and create brand-specific cocktails by selecting flavors and themes. It provides tailored recipes for users to rate, share, and save, enhancing brand engagement through a fun, game-like experience.",
+        "The SGWS Brand Explorer is an interactive web app that lets users explore and create brand-specific cocktails by selecting flavors and themes. It provides tailored recipes for users through a fun, game-like experience.",
       tags: [
         {
           name: "Next.js",
@@ -227,10 +227,10 @@ import {
     {
       name: "Fanta Movie Website",
       description:
-        "Fanta is a React.js and Express.js movie platform designed for students to explore documentary films. It features secure login, film listings, search, ratings, comments, and streaming, with MongoDB handling data storage and management.",
+        "Fanta is a movie platform designed for students to explore documentary films. It features secure login, film listings, search, ratings, comments, and streaming, with MongoDB handling data management.",
       tags: [
         {
-          name: "Reacy.js",
+          name: "React.js",
           color: "blue-text-gradient",
         },
         {
