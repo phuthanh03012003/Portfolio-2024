@@ -125,7 +125,7 @@ import {
       company_name: "Millennia Software",
       icon: millennia,
       iconBg: "#E6DEDD",
-      date: "April 2024 - June 2024",
+      date: "June 2024 - August 2024",
       points: [
         "Reduced daily 1000+ in-person visits by creating an online credit approval system for the Home Loan Department",
         "Produced a 90% accurate decision for loan approval based on user's information through the Random Forest algorithm",
@@ -139,7 +139,7 @@ import {
       company_name: " Charoen Pokphand Group",
       icon: cp,
       iconBg: "#E6DEDD",
-      date: "June 2024 - August 2024",
+      date: "April 2024 - June 2024",
       points: [
         "Engineered a full-stack application for 10,000+ farmers, streamlining quality control across the agricultural supply chain",
         "Streamlined input processes by designing an interactive user interface with 50+ APIs, reducing 20% input time",
